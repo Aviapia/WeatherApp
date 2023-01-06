@@ -1,0 +1,47 @@
+.temperature {
+  color: rgb(63, 58, 58);
+  font-size: 50px;
+  font-weight: 400;
+  line-height: 1;
+}
+
+.units {
+  position: relative;
+  top: -34px;
+  font-size: 25px;
+  text-shadow: 1px 3px 6px rgb(163, 179, 193);
+}
+.submit-button {
+  box-shadow: 10rem;
+}
+body {
+  font-family: arial, sans-serif;
+  background: rgb(163, 179, 193);
+}
+h1 {
+  color: rgb(65, 63, 63);
+  text-shadow: 1px 3px 6px rgb(163, 179, 193);
+}
+h3 {
+  font-size: 32px;
+  color: rgb(95, 90, 90);
+  text-shadow: 1px 3px 6px rgb(163, 179, 193);
+}
+li {
+  list-style: none;
+  color: rgb(91, 86, 86);
+  padding: 7px;
+}
+.container {
+  font-family: "Nunito", sans-serif;
+  padding: 20px;
+  margin: 20px auto;
+  border: 1px solid rgb(72, 71, 71);
+  border-radius: 10px;
+  max-width: 800px;
+  background: linear-gradient(
+    161deg,
+    rgb(221, 221, 221) 38%,
+    rgb(182 198 211) 90.2%
+  );
+}
