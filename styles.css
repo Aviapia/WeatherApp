@@ -49,5 +49,6 @@ li {
   display: block;
   margin: 0 auto;
   text-align: center;
-  color: rgb(91, 89, 89);
+  color: rgb(58, 58, 58);
+  font-size: 13px;
 }
